@@ -1,6 +1,6 @@
 {
-    "name": "MusePastAndPresent",
-    "short_name": "MusePastAndPresent",
+    "name": "AR_Face",
+    "short_name": "AR_Face",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
