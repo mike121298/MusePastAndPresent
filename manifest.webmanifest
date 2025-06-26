@@ -1,6 +1,6 @@
 {
-    "name": "AR_Face",
-    "short_name": "AR_Face",
+    "name": "AR_Face_BIRP",
+    "short_name": "AR_Face_BIRP",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
