@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-MusePastAndPresent-0.1";
+const cacheName = "DefaultCompany-MusePastAndPresent-1.1";
 const contentToCache = [
-    "Build/MusePastAndPresent2.loader.js",
-    "Build/MusePastAndPresent2.framework.js",
-    "Build/MusePastAndPresent2.data",
-    "Build/MusePastAndPresent2.wasm",
+    "Build/MusePastAndPresent.loader.js",
+    "Build/MusePastAndPresent.framework.js",
+    "Build/MusePastAndPresent.data",
+    "Build/MusePastAndPresent.wasm",
     "TemplateData/style.css"
 
 ];
