@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-AR_Face_BIRP-1.4";
+const cacheName = "DefaultCompany-MusePastAndPresent-0.8";
 const contentToCache = [
     "Build/MusePastAndPresent.loader.js",
     "Build/MusePastAndPresent.framework.js",
