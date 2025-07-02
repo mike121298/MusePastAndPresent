@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-MusePastAndPresent-v0.14";
+const cacheName = "DefaultCompany-MusePastAndPresent-v0.15";
 const contentToCache = [
     "Build/MusePastAndPresent.loader.js",
     "Build/MusePastAndPresent.framework.js",
